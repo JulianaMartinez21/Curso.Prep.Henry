@@ -109,7 +109,7 @@ A continuación, escribe lo siguiente en tu terminal:
   $ touch archivo-ejemplo.js
 ```
 
-Esto añadirá un nuevo archivo llamado "archivo-ejemplo.js" a tu proyecto.
+Esto añadirá un nuevo archivcdo llamado "archivo-ejemplo.js" a tu proyecto.
 
 En este momento, podemos usar el comando de git "status", esto nos mostrará los cambios hechos en el repositorio local. Usa "status" si no estás seguro de que algo haya funcionado y necesitas saber qué pasó.
 
